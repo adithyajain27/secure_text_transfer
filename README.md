@@ -27,4 +27,4 @@ During encryption, the plaintext is combined with the Fernet key using a cryptog
 During decryption, the ciphertext is combined with the Fernet key using the same cryptographic algorithm in reverse, resulting in the original plaintext being recovered.
 
 ### photo
-<img src = " " >
+<img src = "Screenshot 2024-03-24 135531.png" width = "600px" >
